@@ -13,7 +13,7 @@ Regla de oro: el color no repara, repara Fénix. Ver `00-brief-oferta.md`.
 
 Comprando *cualquier combo de MiLuz*, te llevás por solo *$1* un *Esmalte Ultra Efecto Gel*.
 
-✨ Y es la *nueva fórmula mejorada*: ahora se combina con tu Tratamiento Fénix, así reparás mientras lucís ese efecto gel que tanto amás.
+✨ Y es la *nueva fórmula mejorada*: *repará con Fénix mientras volvés al efecto gel* que tanto amás.
 
 🎁 El color es *sorpresa* y pertenece a nuestra selección de temporada.
 
@@ -26,7 +26,7 @@ Es solo por hoy. Aprovechalo 🤍
 ✨ NUEVA FÓRMULA ULTRA EFECTO GEL
 
 Antes: primero reparabas con Fénix y después lucías color.
-Ahora: *las dos al mismo tiempo*. La nueva fórmula del color se combina con tu Tratamiento Fénix.
+Ahora: *las dos al mismo tiempo*. Con la nueva fórmula del color, *reparás con Fénix mientras volvés al efecto gel*.
 
 🔥 Y *solo por hoy*, comprando *cualquier combo de MiLuz*, te la llevás por *$1*.
 

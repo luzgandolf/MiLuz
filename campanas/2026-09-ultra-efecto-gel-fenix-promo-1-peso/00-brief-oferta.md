@@ -41,6 +41,7 @@ El vínculo entre las dos: **el esmalte que te llevás por $1 es la nueva fórmu
 | HERO | 1 ESMALTE ULTRA EFECTO GEL POR $1 |
 | URGENCIA | SOLO POR HOY |
 | SECUNDARIO | Comprando cualquier combo |
+| LÍNEA DE LANZAMIENTO | Repará con Fénix mientras volvés al efecto gel (siempre oración completa) |
 | SOPORTE | Color sorpresa · Selección de temporada · Nueva fórmula |
 | LEGAL | No acumulable con cupones de descuento |
 
@@ -72,13 +73,16 @@ La novedad es la **compatibilidad**: el nuevo color se puede usar junto con el t
 
 | ✅ Correcto | ❌ Incorrecto |
 |---|---|
-| "Reparás con Fénix mientras lucís el efecto gel." | "El nuevo color repara tus uñas." |
+| "Repará con Fénix mientras volvés al efecto gel." (frase oficial) | "El nuevo color repara tus uñas." |
+| "Reparás con Fénix mientras lucís el efecto gel." | "Se combina con Fénix." / "Compatible con Fénix." / "+ Fénix" (fragmento suelto: no explica qué hace cada cosa) |
 | "Nueva fórmula: ahora el color se combina con tu Tratamiento Fénix." | "Esmalte reparador." / "Color que fortalece." |
 | "Ya no tenés que elegir entre reparar y lucir tus uñas." | "Primero reparás, después embellecés." (es el mensaje viejo) |
 | "Fénix repara. El color embellece. Ahora, al mismo tiempo." | "Esmalte con Fénix." (mezcla los productos) |
 | "Mientras Fénix trabaja, vos lucís ese efecto gel que tanto amás." | "Repara mientras pinta." (sujeto ambiguo: parece que repara el esmalte) |
 
-**Regla de redacción:** cada vez que aparece "reparar", el sujeto es **Fénix / el tratamiento**. Cada vez que aparece "lucir / embellecer / efecto gel", el sujeto es **el color**.
+**Regla de redacción:** cada vez que aparece "reparar", el sujeto es **Fénix / el tratamiento**. Cada vez que aparece "lucir / embellecer / volver al efecto gel", el sujeto es **el color / la clienta**.
+
+**Regla de la línea de lanzamiento:** Fénix nunca aparece como fragmento ("Se combina con Fénix"). Siempre en una oración completa que diga qué hace cada cosa. Frase oficial: **"Repará con Fénix mientras volvés al efecto gel. Hoy llevate 1 color a $1 con la compra de cualquier combo."**
 
 ### Vocabulario aprobado para el beneficio del color
 
@@ -127,7 +131,8 @@ Misma oferta real, distintas formas de leerla. Ninguna cambia la promo.
 | **B** | PRODUCT FIRST | **ULTRA EFECTO GEL POR $1** / SOLO POR HOY | Llevate 1 al comprar cualquier combo |
 | **C** | OFFER SHOCK | **¿UN ESMALTE POR $1?** / Sí. Solo por hoy. | Comprando cualquier combo |
 | **D** | EQUATION | **$1 = 1 ESMALTE** / SOLO POR HOY | Con cualquier combo |
-| **E** | LAUNCH FIRST | **NUEVA FÓRMULA** / Reparás mientras lucís el efecto gel | Probala hoy por $1 con tu combo |
+| **E** | LAUNCH FIRST | **NUEVA FÓRMULA** / Repará con Fénix mientras volvés al efecto gel | Hoy llevate 1 color a $1 con la compra de cualquier combo |
+| **H** | FÉNIX + COLOR | **REPARÁ CON FÉNIX MIENTRAS VOLVÉS AL EFECTO GEL** / Hoy llevate 1 color a $1 | Con la compra de cualquier combo |
 | **F** | SURPRISE FIRST | **TU PRÓXIMO TONO ES SORPRESA** / y sale $1 | Solo por hoy, con cualquier combo |
 | **G** | BEFORE / AFTER (mensaje) | ANTES: reparabas y después lucías. **AHORA: las dos al mismo tiempo.** | Nueva fórmula · $1 solo por hoy |
 

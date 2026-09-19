@@ -35,9 +35,11 @@ Datos reales:
 - Urgencia: SOLO POR HOY (única urgencia permitida).
 - El color es SORPRESA, de la selección de temporada actual.
 - No acumulable con cupones de descuento.
-- El esmalte de $1 es la NUEVA FÓRMULA mejorada del color Ultra Efecto Gel, que ahora se combina con el Tratamiento Fénix: reparás con Fénix mientras lucís el efecto gel.
+- El esmalte de $1 es la NUEVA FÓRMULA mejorada del color Ultra Efecto Gel, que ahora se puede usar junto con el Tratamiento Fénix.
+- El pitch completo, en una frase: "Repará con Fénix mientras volvés al efecto gel. Hoy llevate 1 color a $1 con la compra de cualquier combo."
 
-Regla crítica del lanzamiento: EL COLOR NO REPARA. REPARA FÉNIX. Si mencionás reparación, el sujeto es siempre Fénix. Si mencionás efecto gel / lucir / embellecer, el sujeto es siempre el color.
+Regla crítica del lanzamiento: EL COLOR NO REPARA. REPARA FÉNIX. Si mencionás reparación, el sujeto es siempre Fénix. Si mencionás efecto gel / lucir / embellecer / volver, el sujeto es siempre el color o la clienta.
+Regla de redacción de la línea de lanzamiento: si Fénix aparece en la imagen, aparece en UNA ORACIÓN COMPLETA que diga qué hace cada cosa: "Repará con Fénix mientras volvés al efecto gel". Prohibidos los fragmentos sueltos: "Se combina con Fénix", "Compatible con Fénix", "+ Fénix", "Con Fénix", "Fénix ready". Un fragmento no explica nada y confunde.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2. EL FRASCO SORPRESA (OBLIGATORIO EN TODAS LAS IMÁGENES)
@@ -69,11 +71,13 @@ A — PRICE FIRST: "$1" gigante / "1 ESMALTE" / "SOLO POR HOY"
 B — PRODUCT FIRST: "ULTRA EFECTO GEL POR $1" / "SOLO POR HOY"
 C — OFFER SHOCK: "¿UN ESMALTE POR $1?" / "Sí. Solo por hoy."
 D — EQUATION: "$1 = 1 ESMALTE" / "SOLO POR HOY"
-E — LAUNCH FIRST: "NUEVA FÓRMULA" / "Reparás con Fénix mientras lucís el efecto gel" / "Hoy por $1 con tu combo"
+E — LAUNCH FIRST: "NUEVA FÓRMULA" / "Repará con Fénix mientras volvés al efecto gel" / "Hoy llevate 1 color a $1 con la compra de cualquier combo"
 F — SURPRISE FIRST: "TU PRÓXIMO TONO ES SORPRESA" / "y sale $1" / "Solo por hoy"
+G — FÉNIX + COLOR: "REPARÁ CON FÉNIX MIENTRAS VOLVÉS AL EFECTO GEL" / "Hoy llevate 1 color a $1" / "con la compra de cualquier combo"
 
-SECUNDARIO (obligatorio, más chico que el hero): "Comprando cualquier combo"
-SOPORTE (opcional, chico): "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Se combina con Fénix"
+SECUNDARIO (obligatorio, más chico que el hero, una de las dos): "Comprando cualquier combo" · "con la compra de cualquier combo"
+LÍNEA DE LANZAMIENTO (opcional, una sola oración, siempre completa): "Repará con Fénix mientras volvés al efecto gel"
+SOPORTE (opcional, chico): "Color sorpresa" · "Selección de temporada" · "Nueva fórmula"
 LEGAL (obligatorio, muy chico, abajo): "No acumulable con cupones de descuento"
 CTA (opcional, botón): "QUIERO EL MÍO" · "APROVECHAR HOY" · "VER COMBOS"
 
@@ -118,6 +122,7 @@ Formatos: entregá cada concepto en 4:5 (feed) y 9:16 (stories/reels). En 9:16, 
 [ ] Aparece el legal "No acumulable con cupones de descuento".
 [ ] Ningún texto fuera de la lista. Ortografía correcta, tildes correctas.
 [ ] Ninguna frase sugiere que el color repara.
+[ ] Si aparece Fénix, aparece en la oración completa "Repará con Fénix mientras volvés al efecto gel", nunca como fragmento ("Se combina con Fénix").
 [ ] Sin lámpara UV, sin torno, sin otras marcas.
 
 Si una imagen no cumple un punto, no la entregues: regenerala.
@@ -174,7 +179,7 @@ Armá una tabla "Elemento de la referencia → Elemento de MiLuz", respetando po
 - H1 → uno de los heros permitidos (ver sección TEXTO). Si la referencia tiene un precio gigante, el hero es "$1".
 - H2 → "SOLO POR HOY" o "Comprando cualquier combo" (según cuál quede más arriba en el orden de lectura; los dos tienen que aparecer en la pieza).
 - PRICE → "$1". Siempre "$1", nunca otro número.
-- BADGE → "SOLO POR HOY" o "COLOR SORPRESA" o "NUEVA FÓRMULA".
+- BADGE → "SOLO POR HOY" o "COLOR SORPRESA" o "NUEVA FÓRMULA". Nunca "Se combina con Fénix" ni "+ Fénix" como badge.
 - PROD → el FRASCO SORPRESA del Ultra Efecto Gel (ver sección FRASCO SORPRESA). Nunca un frasco con color definido.
 - PROD-2 → frasco del Tratamiento Fénix (nítido), o un combo de MiLuz.
 - HAND / PERSON → mano con uñas mostrando el acabado efecto gel, nunca "el tono de la promo".
@@ -201,8 +206,10 @@ Comprando cualquier combo de MiLuz, la clienta se lleva 1 Esmalte Ultra Efecto G
 - Urgencia: SOLO POR HOY (única urgencia permitida).
 - El color es SORPRESA, de la selección de temporada actual.
 - No acumulable con cupones de descuento.
-- El esmalte de $1 es la NUEVA FÓRMULA mejorada del color Ultra Efecto Gel, que ahora se combina con el Tratamiento Fénix: reparás con Fénix mientras lucís el efecto gel.
+- El esmalte de $1 es la NUEVA FÓRMULA mejorada del color Ultra Efecto Gel, que ahora se puede usar junto con el Tratamiento Fénix.
+- El pitch completo, en una frase: "Repará con Fénix mientras volvés al efecto gel. Hoy llevate 1 color a $1 con la compra de cualquier combo."
 Regla crítica: EL COLOR NO REPARA. REPARA FÉNIX.
+Regla de redacción de la línea de lanzamiento: si Fénix aparece en la imagen, aparece en UNA ORACIÓN COMPLETA que diga qué hace cada cosa: "Repará con Fénix mientras volvés al efecto gel". Prohibidos los fragmentos sueltos: "Se combina con Fénix", "Compatible con Fénix", "+ Fénix", "Con Fénix", "Fénix ready". Un fragmento no explica nada y confunde.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 EL FRASCO SORPRESA (OBLIGATORIO)
@@ -219,10 +226,11 @@ Variantes: (a) blur + "?", (b) degradé multicolor difuso + "?", (c) silueta con
 TEXTO PERMITIDO (EXACTO, EN ESPAÑOL, CON TILDES)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-HEROS: "$1" / "1 ESMALTE" · "ULTRA EFECTO GEL POR $1" · "¿UN ESMALTE POR $1?" / "Sí. Solo por hoy." · "$1 = 1 ESMALTE" · "NUEVA FÓRMULA" / "Reparás con Fénix mientras lucís el efecto gel" · "TU PRÓXIMO TONO ES SORPRESA" / "y sale $1"
+HEROS: "$1" / "1 ESMALTE" · "ULTRA EFECTO GEL POR $1" · "¿UN ESMALTE POR $1?" / "Sí. Solo por hoy." · "$1 = 1 ESMALTE" · "NUEVA FÓRMULA" / "Repará con Fénix mientras volvés al efecto gel" · "REPARÁ CON FÉNIX MIENTRAS VOLVÉS AL EFECTO GEL" / "Hoy llevate 1 color a $1" · "TU PRÓXIMO TONO ES SORPRESA" / "y sale $1"
 URGENCIA: "SOLO POR HOY"
-SECUNDARIO (obligatorio): "Comprando cualquier combo"
-SOPORTE: "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Se combina con Fénix"
+SECUNDARIO (obligatorio, una de las dos): "Comprando cualquier combo" · "con la compra de cualquier combo"
+LÍNEA DE LANZAMIENTO (una sola oración, siempre completa): "Repará con Fénix mientras volvés al efecto gel"
+SOPORTE: "Color sorpresa" · "Selección de temporada" · "Nueva fórmula"
 LEGAL (obligatorio): "No acumulable con cupones de descuento"
 CTA: "QUIERO EL MÍO" · "APROVECHAR HOY" · "VER COMBOS"
 Prohibido: cualquier otro texto, otra urgencia, "gratis", porcentajes, nombres de colores, resultados, ingredientes, reseñas inventadas.
@@ -241,7 +249,7 @@ ENTREGA
 1. La nomenclatura posicional de la referencia (Paso 1).
 2. La tabla de mapeo (Paso 2), incluyendo qué elementos eliminaste o reemplazaste y por qué.
 3. La pieza reconstruida + 2 variantes de jerarquía, en el ratio de la referencia. Si la referencia es 1:1 o 4:5, sumá una adaptación 9:16 con el texto importante en la zona central.
-4. Checklist marcada por imagen: frasco real ✔ · color blur + "?" ✔ · "$1" ✔ · "SOLO POR HOY" ✔ · "Comprando cualquier combo" ✔ · legal ✔ · sin texto fuera de lista ✔ · nada sugiere que el color repara ✔ · sin UV / torno / otras marcas ✔.
+4. Checklist marcada por imagen: frasco real ✔ · color blur + "?" ✔ · "$1" ✔ · "SOLO POR HOY" ✔ · "Comprando cualquier combo" ✔ · legal ✔ · sin texto fuera de lista ✔ · nada sugiere que el color repara ✔ · Fénix solo en oración completa, nunca "Se combina con Fénix" ✔ · sin UV / torno / otras marcas ✔.
 
 Si una imagen no cumple un punto, no la entregues: regenerala.
 
