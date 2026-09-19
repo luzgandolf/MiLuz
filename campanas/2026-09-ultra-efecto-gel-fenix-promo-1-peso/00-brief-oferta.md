@@ -113,7 +113,7 @@ Tres modos. Poppy tiene que explorar los tres.
 
 | Modo | Hero | Kicker | Cuándo usarlo |
 |---|---|---|---|
-| **PROMO FIRST** | 1 ESMALTE POR $1 · SOLO POR HOY | "Y es la nueva fórmula: ahora se combina con Fénix." | Conversión pura, retargeting, últimas horas del día |
+| **PROMO FIRST** | 1 ESMALTE POR $1 · SOLO POR HOY | "Y es la nueva fórmula: repará con Fénix mientras volvés al efecto gel." | Conversión pura, retargeting, últimas horas del día |
 | **LAUNCH FIRST** | NUEVA FÓRMULA · Reparás con Fénix mientras lucís el efecto gel | "Probala hoy por $1 con tu combo." | Prospecting, audiencias frías, storytelling |
 | **50/50 (Ecuación)** | FÉNIX + NUEVO COLOR | "$1 · SOLO POR HOY" | Formato combo / bundle visual, carrusel |
 
@@ -148,7 +148,7 @@ Misma oferta real, distintas formas de leerla. Ninguna cambia la promo.
 | 🔥 DEAL | "Sí, literalmente: un Ultra Efecto Gel por $1." |
 | ⏰ URGENCY | "Solo por hoy." |
 | 💅 COLLECTION | "Un tono nuevo de la selección de temporada." |
-| 🧪 LAUNCH | "Nueva fórmula: ahora se combina con Fénix." |
+| 🧪 LAUNCH | "Nueva fórmula: repará con Fénix mientras volvés al efecto gel." |
 | ⏳ NO MORE WAITING | "Ya no esperás a terminar la reparación para lucir tus uñas." |
 | 🤝 DUO | "Fénix repara. El color embellece. Al mismo tiempo." |
 

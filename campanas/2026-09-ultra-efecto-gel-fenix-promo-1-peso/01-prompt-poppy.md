@@ -168,7 +168,7 @@ AHORA: las dos al mismo tiempo.
 
 Y tres MODOS de convivencia de los dos mensajes:
 
-PROMO FIRST — Hero: 1 ESMALTE POR $1 · SOLO POR HOY. Kicker: "Y es la nueva fórmula: ahora se combina con Fénix."
+PROMO FIRST — Hero: 1 ESMALTE POR $1 · SOLO POR HOY. Kicker: "Y es la nueva fórmula: repará con Fénix mientras volvés al efecto gel."
 LAUNCH FIRST — Hero: NUEVA FÓRMULA / reparás mientras lucís. Kicker: "Probala hoy por $1 con tu combo."
 50/50 (ECUACIÓN) — Hero: FÉNIX + NUEVO COLOR. Kicker: "$1 · SOLO POR HOY."
 
@@ -215,7 +215,7 @@ No quiero 15 diseños que digan lo mismo de la misma manera. Explorá ángulos:
 🔥 DEAL — "Sí, literalmente: un Ultra Efecto Gel por $1."
 ⏰ URGENCY — "Solo por hoy."
 💅 COLLECTION — "Un tono nuevo de la selección de temporada."
-🧪 LAUNCH — "Nueva fórmula: ahora se combina con Fénix."
+🧪 LAUNCH — "Nueva fórmula: repará con Fénix mientras volvés al efecto gel."
 ⏳ NO MORE WAITING — "Ya no esperás a terminar la reparación para lucir tus uñas."
 🤝 DUO — "Fénix repara. El color embellece. Al mismo tiempo."
 
