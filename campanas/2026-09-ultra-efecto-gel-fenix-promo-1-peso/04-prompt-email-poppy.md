@@ -1,4 +1,4 @@
-# Prompt de EMAIL MARKETING para Poppy (v2, con la dirección de Luz)
+# Prompt de EMAIL MARKETING para Poppy (v3, con la dirección de Luz)
 
 ## Diagnóstico de lo que generó
 
@@ -19,11 +19,13 @@
 | 8 | Parte final: "Un color de temporada elegido para vos", íconos "Cuidado / Color / Brillo gel / Rutina", caja de regalo, **foto de un depósito con bolsas negras**, botones que no son CTA ("Tu tono nuevo, de temporada", "Sumá un tono nuevo a tu rutina"). | Cierre = urgencia + CTA + legal. Nada más. Sin fotos de logística, sin cajas de regalo, sin íconos genéricos, sin botones decorativos. |
 | 9 | En el cierre no aparece "$1" ni "SOLO POR HOY". | El cierre repite la oferta completa y el CTA. |
 
+**Cierre definido por Luz (20/9):** una sola foto (Luz sosteniendo el Arena) + texto de nueva fórmula con beneficios + legal de cupones. Reemplaza a la grilla de tonos y al cierre anterior.
+
 ---
 
 ## PROMPT (copiar desde acá ↓)
 
-POPPY — EMAIL MARKETING · MILUZ · 1 ULTRA EFECTO GEL POR $1 · SOLO POR HOY · v2
+POPPY — EMAIL MARKETING · MILUZ · 1 ULTRA EFECTO GEL POR $1 · SOLO POR HOY · v3
 
 Quiero un email de promoción, NO un catálogo. Un solo trabajo: que la clienta entienda en 3 segundos que hoy, comprando cualquier combo, se lleva un Esmalte Ultra Efecto Gel por $1, y que haga click. Seguí la estructura tal cual. No agregues bloques.
 
@@ -44,23 +46,25 @@ Regla crítica: EL COLOR NO REPARA. REPARA FÉNIX. Fénix aparece siempre en una
 El mensaje viejo era "primero se repara, después se embellece". El mensaje NUEVO es "al mismo tiempo". Nunca escribas "Primero, cuidado. Después, color." ni ninguna secuencia primero/después.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-BENEFICIOS DEL COLOR (ÚNICOS PERMITIDOS)
+BENEFICIOS DE LA NUEVA FÓRMULA (ÚNICOS PERMITIDOS)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+- Mayor cobertura
+- Fórmula vegana
+- Hipoalergénica
+- Libre de químicos agresivos
+- 23 free
 - Secado rápido al aire
-- Efecto gel sin lámpara UV
-- Sin torno
-- Premium hipoalergénico (como dice la etiqueta)
-- 12 ml (como dice la etiqueta)
-Se usan como línea de apoyo corta debajo del producto o como 1 beneficio por tono en la grilla. Nunca como sección propia, nunca como fichas, nunca como el tema del email. Ningún otro beneficio.
+- Retiro suave con quitaesmalte sin acetona
+Se usan SOLO en el bloque de cierre, como lista corta debajo del texto de lanzamiento. Nunca como sección propia tipo ficha técnica, nunca como íconos con rótulos genéricos. Ningún otro beneficio.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CÓMO SE MUESTRA EL COLOR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 - HERO: frasco sorpresa. Packshot real del Ultra Efecto Gel con el contenido difuminado / vidrio esmerilado y un "?" grande sobre el frasco. Texto "COLOR SORPRESA".
-- GRILLA DE TEMPORADA: VARIOS tonos DISTINTOS de la carpeta de colores adjunta, uno por celda. Muestran el universo posible ("uno de estos te toca"). Nunca el mismo tono repetido en varias celdas.
-- PROHIBIDO: un solo tono repetido en todo el email presentado como "el" esmalte de la promo.
+- CIERRE: la foto real adjunta de Luz sosteniendo el color Arena [FOTO LUZ + ARENA]. Se usa tal cual, no se genera ni se reemplaza. El texto no nombra el tono.
+- PROHIBIDO: un solo tono repetido en todo el email presentado como "el" esmalte de la promo. Íconos circulares con recortes de producto y rótulos genéricos.
 - Fotos de producto: solo packshots reales adjuntos y la carpeta de colores. No inventar frascos ni etiquetas.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -71,7 +75,8 @@ PROHIBIDO (ERRORES DE LAS VERSIONES ANTERIORES)
 - Secciones "Qué te llevás", "Así es el esmalte", fichas de producto, grillas de 4 fichas con el mismo frasco.
 - "Primero, cuidado. Después, color." o cualquier primero/después.
 - "Elegido para vos" (el color es sorpresa, no elegido para la clienta).
-- Íconos genéricos tipo "Cuidado / Color / Brillo gel / Rutina".
+- Íconos genéricos tipo "Cuidado / Color / Brillo gel / Rutina" y círculos con recortes de producto.
+- "Un color de temporada elegido para vos".
 - Fotos de depósito, bolsas, cajas de envío, logística, local, equipo. Fotos de cajas de regalo con moño.
 - Botones que no son CTA ("Tu tono nuevo, de temporada", "Sumá un tono nuevo a tu rutina"). Un botón siempre lleva a comprar y dice QUIERO EL MÍO o APROVECHAR HOY.
 - Descuentos, códigos, "envío gratis", "color de regalo", "$4000 OFF". Si una imagen de referencia los tiene, se ignoran: de la referencia se copia solo la composición.
@@ -108,24 +113,20 @@ Título: Color Ultra Efecto Gel
 Texto: De secado rápido al aire. Llevátelo a $1 con la compra de cualquier combo de la web.
 Etiqueta chica: SOLO POR HOY
 
-BLOQUE 3 — TU SORPRESA DE TEMPORADA (grilla de tonos)
-Título: ¿Qué tono te toca?
-Sub: Uno de estos. Lo descubrís cuando llega. 🤍
-Grilla de 4 celdas. En cada celda: UN tono distinto de la carpeta de colores adjunta + 1 beneficio del color (uno por celda, sin repetir):
-- Celda 1: [tono 1] · Secado rápido al aire
-- Celda 2: [tono 2] · Efecto gel sin lámpara UV
-- Celda 3: [tono 3] · Sin torno
-- Celda 4: [tono 4] · Premium hipoalergénico
-Sin nombres de tono en el texto (el color es sorpresa). Sin precios en las celdas.
-
-BLOQUE 4 — CIERRE (urgencia + CTA)
-Título: Solo por hoy
-Texto: Mañana ya no. Un Ultra Efecto Gel por $1 con la compra de cualquier combo.
+BLOQUE 3 — CIERRE: NUEVA FÓRMULA (una sola foto + texto + legal)
+Imagen: SOLO la foto real adjunta de Luz sosteniendo el color Arena [FOTO LUZ + ARENA]. Ninguna otra imagen en este bloque. Sin íconos, sin collage, sin caja de regalo.
+Título: Nueva fórmula mejorada
+Texto:
+Nueva fórmula mejorada, con mayor cobertura. Y ahora, fusionándola con el Tratamiento Fénix, podés reparar tus uñas mientras volvés a lucir ese brillo y acabado hermoso de salón.
+Lista corta (una línea o viñetas chicas, en este orden):
+Fórmula vegana · Hipoalergénica · Libre de químicos agresivos · 23 free · Secado rápido al aire · Retiro suave con quitaesmalte sin acetona
 CTA: APROVECHAR HOY
-Sin imágenes en este bloque.
+Texto chico bajo el botón: Un Ultra Efecto Gel por $1 con la compra de cualquier combo. Solo por hoy.
 
-BLOQUE 5 — LEGAL (texto chico)
-Promo válida solo hoy, comprando cualquier combo disponible en la web. 1 Esmalte Ultra Efecto Gel por $1, color sorpresa de la selección de temporada actual. No acumulable con cupones de descuento.
+BLOQUE 4 — LEGAL (texto chico, cierra el email)
+Esta promoción no es acumulable con cupones de descuento. Válida solo hoy comprando cualquier combo disponible en la web. Color sorpresa de la selección de temporada actual.
+
+BLOQUE 5 — (no existe; no agregues nada entre el legal y el footer)
 
 BLOQUE 6 — FOOTER
 Logo MiLuz · Productos · Contacto · Desuscribirse.
@@ -136,7 +137,7 @@ DISEÑO
 
 - Estética MiLuz: paleta, tipografía y luz de los creatives ganadores adjuntos.
 - "$1" es el elemento más grande del email. "SOLO POR HOY" el segundo.
-- Fotos: hero (frasco sorpresa), cuadrado 1 (mano + Fénix), cuadrado 2 (packshot), grilla (4 tonos distintos). Ninguna otra foto.
+- Fotos: hero (frasco sorpresa), cuadrado 1 (mano + Fénix), cuadrado 2 (packshot), cierre (foto de Luz con el Arena). Ninguna otra foto.
 - Ancho 600 px. Todo el texto como texto real, salvo el hero.
 - Sin lámpara UV, sin torno, sin otras marcas.
 
@@ -144,11 +145,11 @@ DISEÑO
 CHECKLIST ANTES DE ENTREGAR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[ ] "SOLO POR HOY" en el hero, en el cuadrado 2 y en el cierre. Ninguna otra urgencia.
-[ ] "$1" y "con la compra de cualquier combo" juntos en el hero, en el cuadrado 2 y en el cierre.
+[ ] "SOLO POR HOY" en el hero, en el cuadrado 2 y bajo el CTA del cierre. Ninguna otra urgencia.
+[ ] "$1" y "con la compra de cualquier combo" juntos en el hero, en el cuadrado 2 y bajo el CTA del cierre.
 [ ] Hero con frasco difuminado y "?".
 [ ] Exactamente 2 cuadrados en el bloque 2. Cuadrado 1 con mano + Fénix y la frase "reparar con Fénix mientras lucís el efecto gel". Sin primero/después.
-[ ] Grilla con 4 tonos DISTINTOS y 1 beneficio por celda, sin repetir tono ni beneficio.
+[ ] Cierre con UNA sola foto (Luz + Arena), el texto de nueva fórmula tal cual, la lista de beneficios completa y en orden, el CTA y el legal. Nada más.
 [ ] Ninguna foto de depósito, bolsas, cajas de regalo, local o equipo.
 [ ] Todos los botones son CTA de compra (QUIERO EL MÍO / APROVECHAR HOY).
 [ ] Sin descuentos, códigos, envío gratis ni "regalo".

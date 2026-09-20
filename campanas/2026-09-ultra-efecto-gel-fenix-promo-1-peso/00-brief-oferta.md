@@ -92,11 +92,24 @@ La novedad es la **compatibilidad**: el nuevo color se puede usar junto con el t
 - "ese efecto gel que tanto amás"
 - sin lámpara UV · sin torno (nombre real de la línea: *Colores Ultra Efecto Gel SIN UV / SIN TORNO*)
 
-### Beneficios del color aprobados (línea de apoyo, nunca el tema)
+### Beneficios de la nueva fórmula aprobados (dato de Luz, 20/9)
 
-- Secado rápido al aire (dato de Luz)
+- Mayor cobertura
+- Fórmula vegana
+- Hipoalergénica
+- Libre de químicos agresivos
+- 23 free
+- Secado rápido al aire
+- Retiro suave con quitaesmalte sin acetona
 - Efecto gel sin lámpara UV · sin torno (nombre real de la línea)
-- Premium hipoalergénico · 12 ml (impreso en la etiqueta del frasco)
+- 12 ml (impreso en la etiqueta)
+
+Uso: como lista corta de apoyo debajo del texto de lanzamiento, o 1 beneficio por celda en grillas. Nunca como sección propia tipo ficha técnica. Ningún beneficio fuera de esta lista.
+
+### Texto oficial de lanzamiento (versión larga, para email / web)
+
+> Nueva fórmula mejorada, con mayor cobertura. Y ahora, fusionándola con el Tratamiento Fénix, podés reparar tus uñas mientras volvés a lucir ese brillo y acabado hermoso de salón.
+> Fórmula vegana · Hipoalergénica · Libre de químicos agresivos · 23 free · Secado rápido al aire · Retiro suave con quitaesmalte sin acetona.
 
 ### Cómo se muestra el color
 
@@ -176,5 +189,5 @@ Misma oferta real, distintas formas de leerla. Ninguna cambia la promo.
 - [ ] ¿La fórmula mejorada ya está en **todos** los tonos de la selección de temporada? (necesario para decir "el esmalte de $1 es la nueva fórmula").
 - [ ] Imagen de referencia del formato nuevo que te gustó (para adjuntar al prompt de Poppy, sección "REFERENCIA NUEVA").
 - [ ] Set de creatives ganadores (imágenes/videos) para adjuntar al prompt de Poppy.
-- [ ] Lista completa de beneficios del color que querés habilitar (hoy: secado rápido al aire, sin UV, sin torno, premium hipoalergénico, 12 ml).
+- [ ] Foto de Luz sosteniendo el color Arena (para el cierre del email).
 - [ ] Carpeta de colores de la selección de temporada (para grillas y carruseles).

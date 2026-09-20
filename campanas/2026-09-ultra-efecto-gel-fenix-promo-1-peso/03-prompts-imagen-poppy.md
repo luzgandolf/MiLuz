@@ -78,7 +78,7 @@ G — FÉNIX + COLOR: "REPARÁ CON FÉNIX MIENTRAS VOLVÉS AL EFECTO GEL" / "Hoy
 
 SECUNDARIO (obligatorio, más chico que el hero, una de las dos): "Comprando cualquier combo" · "con la compra de cualquier combo"
 LÍNEA DE LANZAMIENTO (opcional, una sola oración, siempre completa): "Repará con Fénix mientras volvés al efecto gel"
-SOPORTE (opcional, chico): "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Secado rápido al aire" · "Sin lámpara UV" · "Sin torno"
+SOPORTE (opcional, chico): "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Mayor cobertura" · "Secado rápido al aire" · "Sin lámpara UV" · "Sin torno" · "Vegana" · "23 free"
 LEGAL (obligatorio, muy chico, abajo): "No acumulable con cupones de descuento"
 CTA (opcional, botón): "QUIERO EL MÍO" · "APROVECHAR HOY" · "VER COMBOS"
 
@@ -231,7 +231,7 @@ HEROS: "$1" / "1 ESMALTE" · "ULTRA EFECTO GEL POR $1" · "¿UN ESMALTE POR $1?"
 URGENCIA: "SOLO POR HOY"
 SECUNDARIO (obligatorio, una de las dos): "Comprando cualquier combo" · "con la compra de cualquier combo"
 LÍNEA DE LANZAMIENTO (una sola oración, siempre completa): "Repará con Fénix mientras volvés al efecto gel"
-SOPORTE: "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Secado rápido al aire" · "Sin lámpara UV" · "Sin torno"
+SOPORTE: "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Mayor cobertura" · "Secado rápido al aire" · "Sin lámpara UV" · "Sin torno" · "Vegana" · "23 free"
 LEGAL (obligatorio): "No acumulable con cupones de descuento"
 CTA: "QUIERO EL MÍO" · "APROVECHAR HOY" · "VER COMBOS"
 Prohibido: cualquier otro texto, otra urgencia, "gratis", porcentajes, nombres de colores, resultados, ingredientes, reseñas inventadas.
