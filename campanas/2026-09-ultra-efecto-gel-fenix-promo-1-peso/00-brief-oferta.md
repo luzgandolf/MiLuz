@@ -100,6 +100,8 @@ La novedad es la **compatibilidad**: el nuevo color se puede usar junto con el t
 
 ### Claims prohibidos del lanzamiento
 
+- Especificaciones del esmalte no provistas: "premium", "hipoalergénico", "12 ml", "larga duración", "secado rápido". (Aparecieron inventadas en un email generado. Si alguna es real y la querés habilitar, agregala acá.)
+
 - Cualquier resultado medible (días, %, "en X semanas") que no esté escrito en este brief.
 - Cualquier ingrediente o tecnología de la fórmula.
 - "Nueva fórmula" aplicado a Fénix (la fórmula nueva es la del **color**).
@@ -160,3 +162,4 @@ Misma oferta real, distintas formas de leerla. Ninguna cambia la promo.
 - [ ] ¿La fórmula mejorada ya está en **todos** los tonos de la selección de temporada? (necesario para decir "el esmalte de $1 es la nueva fórmula").
 - [ ] Imagen de referencia del formato nuevo que te gustó (para adjuntar al prompt de Poppy, sección "REFERENCIA NUEVA").
 - [ ] Set de creatives ganadores (imágenes/videos) para adjuntar al prompt de Poppy.
+- [ ] ¿"Hipoalergénico" y "12 ml" son datos reales del Ultra Efecto Gel? Si sí y querés usarlos, habilitarlos en la sección de claims. Hasta entonces, prohibidos.
