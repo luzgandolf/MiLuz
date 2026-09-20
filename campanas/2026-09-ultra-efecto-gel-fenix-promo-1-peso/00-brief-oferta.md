@@ -92,6 +92,19 @@ La novedad es la **compatibilidad**: el nuevo color se puede usar junto con el t
 - "ese efecto gel que tanto amás"
 - sin lámpara UV · sin torno (nombre real de la línea: *Colores Ultra Efecto Gel SIN UV / SIN TORNO*)
 
+### Beneficios del color aprobados (línea de apoyo, nunca el tema)
+
+- Secado rápido al aire (dato de Luz)
+- Efecto gel sin lámpara UV · sin torno (nombre real de la línea)
+- Premium hipoalergénico · 12 ml (impreso en la etiqueta del frasco)
+
+### Cómo se muestra el color
+
+- Hero / pieza principal: **frasco sorpresa** (contenido difuminado + "?").
+- Grillas o carruseles de temporada: **varios tonos distintos** de la carpeta de colores, uno por celda. Muestran el universo posible.
+- ❌ Un solo tono repetido presentado como "el" esmalte de la promo.
+- ❌ Nombrar el tono en el texto.
+
 ### Vocabulario aprobado para Fénix
 
 - Tratamiento Fénix
@@ -100,7 +113,8 @@ La novedad es la **compatibilidad**: el nuevo color se puede usar junto con el t
 
 ### Claims prohibidos del lanzamiento
 
-- Especificaciones del esmalte no provistas: "premium", "hipoalergénico", "12 ml", "larga duración", "secado rápido". (Aparecieron inventadas en un email generado. Si alguna es real y la querés habilitar, agregala acá.)
+- Beneficios del color fuera de la lista aprobada ("larga duración", "no se descascara", ingredientes, etc.).
+- La secuencia "primero cuidado, después color" o cualquier primero/después: es el mensaje viejo.
 
 - Cualquier resultado medible (días, %, "en X semanas") que no esté escrito en este brief.
 - Cualquier ingrediente o tecnología de la fórmula.
@@ -162,4 +176,5 @@ Misma oferta real, distintas formas de leerla. Ninguna cambia la promo.
 - [ ] ¿La fórmula mejorada ya está en **todos** los tonos de la selección de temporada? (necesario para decir "el esmalte de $1 es la nueva fórmula").
 - [ ] Imagen de referencia del formato nuevo que te gustó (para adjuntar al prompt de Poppy, sección "REFERENCIA NUEVA").
 - [ ] Set de creatives ganadores (imágenes/videos) para adjuntar al prompt de Poppy.
-- [ ] ¿"Hipoalergénico" y "12 ml" son datos reales del Ultra Efecto Gel? Si sí y querés usarlos, habilitarlos en la sección de claims. Hasta entonces, prohibidos.
+- [ ] Lista completa de beneficios del color que querés habilitar (hoy: secado rápido al aire, sin UV, sin torno, premium hipoalergénico, 12 ml).
+- [ ] Carpeta de colores de la selección de temporada (para grillas y carruseles).

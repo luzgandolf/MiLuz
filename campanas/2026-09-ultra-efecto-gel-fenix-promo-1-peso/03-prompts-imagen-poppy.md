@@ -52,7 +52,8 @@ Cómo se representa el frasco sorpresa:
 - El contenido del frasco (el color del esmalte) NO se muestra definido: va desenfocado / difuminado / con efecto blur o vidrio esmerilado, de modo que no se pueda identificar un tono.
 - Sobre el frasco o inmediatamente al lado va un signo de pregunta "?" grande, protagonista, integrado al diseño (puede ser un sticker, un badge, un recorte, un neón, según la estética).
 - Cerca del frasco va la etiqueta de texto "COLOR SORPRESA" (opcional en el hero, obligatoria al menos como texto de soporte).
-- Nunca muestres un color definido dentro del frasco. Nunca muestres una mano con un tono específico como si fuera el tono de la promo. Si aparecen uñas pintadas, son para mostrar el EFECTO GEL (brillo, acabado), no el color que se lleva.
+- Nunca muestres un solo color definido dentro del frasco principal ni una mano con un tono presentado como "el" tono de la promo. Si aparecen uñas pintadas, muestran el EFECTO GEL (brillo, acabado), no el color que se lleva.
+- SÍ podés mostrar VARIOS tonos distintos de la carpeta de colores adjunta como "selección de temporada" (fila, abanico, grilla): muestran el universo posible. Nunca un solo tono repetido.
 
 Variantes permitidas del frasco sorpresa (usalas para explorar):
 a) Frasco con contenido blur + "?" grande al frente.
@@ -77,7 +78,7 @@ G — FÉNIX + COLOR: "REPARÁ CON FÉNIX MIENTRAS VOLVÉS AL EFECTO GEL" / "Hoy
 
 SECUNDARIO (obligatorio, más chico que el hero, una de las dos): "Comprando cualquier combo" · "con la compra de cualquier combo"
 LÍNEA DE LANZAMIENTO (opcional, una sola oración, siempre completa): "Repará con Fénix mientras volvés al efecto gel"
-SOPORTE (opcional, chico): "Color sorpresa" · "Selección de temporada" · "Nueva fórmula"
+SOPORTE (opcional, chico): "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Secado rápido al aire" · "Sin lámpara UV" · "Sin torno"
 LEGAL (obligatorio, muy chico, abajo): "No acumulable con cupones de descuento"
 CTA (opcional, botón): "QUIERO EL MÍO" · "APROVECHAR HOY" · "VER COMBOS"
 
@@ -219,7 +220,7 @@ EL FRASCO SORPRESA (OBLIGATORIO)
 - El contenido del frasco va desenfocado / difuminado / vidrio esmerilado: no se puede identificar un tono.
 - Sobre el frasco o al lado, un "?" grande y protagonista, integrado al diseño.
 - Cerca del frasco, el texto "COLOR SORPRESA" (al menos como soporte).
-- Nunca un color definido dentro del frasco. Nunca una mano con un tono presentado como el de la promo.
+- Nunca un solo color definido en el frasco principal ni una mano con un tono presentado como el de la promo. Varios tonos distintos de la carpeta como "selección de temporada": permitido.
 Variantes: (a) blur + "?", (b) degradé multicolor difuso + "?", (c) silueta con "?" junto a Fénix nítido, (d) fila de frascos blur con un solo "?".
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -230,7 +231,7 @@ HEROS: "$1" / "1 ESMALTE" · "ULTRA EFECTO GEL POR $1" · "¿UN ESMALTE POR $1?"
 URGENCIA: "SOLO POR HOY"
 SECUNDARIO (obligatorio, una de las dos): "Comprando cualquier combo" · "con la compra de cualquier combo"
 LÍNEA DE LANZAMIENTO (una sola oración, siempre completa): "Repará con Fénix mientras volvés al efecto gel"
-SOPORTE: "Color sorpresa" · "Selección de temporada" · "Nueva fórmula"
+SOPORTE: "Color sorpresa" · "Selección de temporada" · "Nueva fórmula" · "Secado rápido al aire" · "Sin lámpara UV" · "Sin torno"
 LEGAL (obligatorio): "No acumulable con cupones de descuento"
 CTA: "QUIERO EL MÍO" · "APROVECHAR HOY" · "VER COMBOS"
 Prohibido: cualquier otro texto, otra urgencia, "gratis", porcentajes, nombres de colores, resultados, ingredientes, reseñas inventadas.
